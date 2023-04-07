@@ -4,5 +4,5 @@
 - Looking to join large projects when I finish my education
 - Inquiries @ rl.ramiro11@gmail.com
 ---
-> Planning to learn machine learning and deep learning in a near future
-> Currently learning: data science basics, Python, C#, cloud basics
+- Planning to learn machine learning and deep learning in a near future
+- Currently learning: data science basics, Python, C#, cloud basics
