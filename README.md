@@ -1,4 +1,4 @@
-- Born and raised in La Rioja, Argentina
+- La Rioja, Argentina
 - Pursuing Information Systems Engineer degree
 - Inquiries @ rl.ramiro11@gmail.com
 ---
