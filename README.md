@@ -1,6 +1,2 @@
 - La Rioja, Argentina
-- Pursuing Information Systems Engineer degree
-- Inquiries @ rl.ramiro11@gmail.com
----
-- Planning to learn machine learning and deep learning in a near future
-- Currently learning: back-end Java, Spring, C# & .NET
+- Information Systems Engineering student
